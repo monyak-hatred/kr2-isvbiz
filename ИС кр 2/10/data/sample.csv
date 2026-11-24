@@ -1,0 +1,11 @@
+# способ;км;кг
+pickup;0;5
+standard;10;2
+express;10;2
+locker;10;2
+locker;0;1
+standard;5;31
+express;150;1
+drone;1;1
+standard;abc;1
+standard;10
